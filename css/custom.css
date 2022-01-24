@@ -1,0 +1,116 @@
+/** ADD YOUR AWESOME CODES HERE **/
+
+/* Modal */
+.modal.modal-fullscreen .modal-dialog {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  max-width: none;
+}
+
+.modal.modal-fullscreen .modal-content {
+  height: auto;
+  height: 100vh;
+  border-radius: 0;
+  border: none;
+}
+
+.modal.modal-fullscreen .modal-body {
+  overflow-y: auto;
+}
+
+.modal-content {
+  background: url(../images/nature.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+}
+
+.row_img_modal {
+  margin-top: 10rem;
+}
+
+.img-modal {
+  border-radius: 100%;
+  width: 130px;
+  box-shadow: 1px 1px 7px rgb(100, 100, 100);
+}
+
+.btn_close_modal {
+  background-color: #c6a276;
+  border-color: #c6a276;
+}
+
+/* end modal */
+
+.home-box .home-a1 .container {
+  border: 3px solid #99a770;
+  border-radius: 10px;
+}
+
+.top-flower {
+  padding-left: unset;
+  padding-right: unset;
+}
+
+.bismillah {
+  font-family: "Dancing Script", cursive;
+  color: #99a770 !important;
+}
+
+.btn-music {
+  bottom: 10em !important;
+  font-size: 1em;
+  left: unset;
+  right: 1em;
+  background-color: #99a770;
+  color: white;
+  padding: 5px 15px;
+  border-radius: 10px;
+}
+
+.name_home,
+.date_home,
+.name_about,
+.name_couple {
+  font-family: "Alex Brush", cursive;
+  color: #99a770 !important;
+}
+
+.name_home {
+  font-size: 2rem;
+  size: 52px;
+  font-weight: 400;
+}
+
+.name_couple {
+  font-size: 2rem;
+}
+
+.col_date_home {
+  margin-bottom: -4rem;
+}
+
+.date_home {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.and_couple {
+  font-family: "Alex Brush", cursive;
+  font-size: 2.5rem;
+}
+
+.akad_nikah {
+  border-radius: 10px;
+  box-shadow: 1px 1px 7px rgb(156, 156, 156);
+  width: 20rem;
+  padding: 10px;
+  border: 1.5px solid #99a770;
+  color: #99a770;
+}
+
+.divider {
+  width: 70%;
+  border: 1.5px solid #99a770;
+}
